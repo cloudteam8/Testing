@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+#projName{
+	background-color:#ff7b81;
+	align:center;
+}
+
+#headerName{
+	font: 50px Verdana ;
+	color:#FAFAFA;
+	font-weight:bold;
+	padding-left:240px;
+	padding-top:50px;
+	padding-bottom:50px;
+}
