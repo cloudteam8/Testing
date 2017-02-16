@@ -1,0 +1,32 @@
+@CHARSET "ISO-8859-1";
+
+#footer{
+	margin-top:50px;
+	background-color:#ff7b81;
+	align:center;
+} 
+
+.firstFooterDiv{
+	padding:10px 0px 0px 50px;
+	font-size: 12px;
+}
+
+.firstFooterDiv h5{
+	color:white;
+	text-decoration:underline;
+}
+
+.firstFooterDiv ul li{
+	display:block;
+	padding:0px 4px 0px;
+	margin-left:-10px;
+}
+
+.firstFooterDiv ul li a{
+	text-decoration:none;
+	color:white;
+}
+
+.firstFooterDiv ul li a:hover{
+	text-decoration: underline;
+}
