@@ -10,7 +10,9 @@ branches:
  only:
    - master
  
- install: true script: ./mvnw clean install
+ install:
+  true script:
+   ./mvnw clean install
 
 cache:
  directories:
